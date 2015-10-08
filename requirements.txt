@@ -1,6 +1,1 @@
-numpy
-toolz
-multipledispatch
-future
-tableprint
 descent
