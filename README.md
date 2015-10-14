@@ -1,5 +1,5 @@
-# Optimization using the descent package
+# Tutorial on optimization using descent
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/nirum/descent-tutorial)
+Live notebook demo: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/nirum/descent-tutorial)
 
-WIP
+[Slides used in the tutorial](https://github.com/nirum/descent-tutorial/raw/master/tutorial-slides.pdf)
